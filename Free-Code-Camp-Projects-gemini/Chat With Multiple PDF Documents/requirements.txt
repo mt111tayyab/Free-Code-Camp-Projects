@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+PyPDF
+chromadb
+faiss-cpu
+langchain_google_genai
+# pip install -r requirements.txt
